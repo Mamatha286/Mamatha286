@@ -3,14 +3,14 @@
 Welcome to my personal portfolio 🚀
 
 🔗 Live Website:  
-https://mamathacoder26-alt.github.io/Portfolio_MamathaH/
+https://Mamatha286.github.io/Portfolio_MamathaH/
 
 ---
 
 ## 👩‍💻 About Me
 - MCA Graduate
 - Full Stack Developer
-- Skills: React, Node.js, MySQL
+- Skills: Java, React, Node.js, MySQL, Python.
 
 ---
 
@@ -32,11 +32,11 @@ https://mamathacoder26-alt.github.io/Portfolio_MamathaH/
 
 ## 🛠️ Tech Stack
 - Frontend: React, HTML, CSS
-- Backend: Node.js, Express
+- Backend: Node.js, Express, Java, Python, Django, Flask.
 - Database: MySQL
 
 ---
 
 ## 📬 Contact Me
-- Email: yourmail@gmail.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- Email: mamathacoder26@gmail.com
+- LinkedIn: https://linkedin.com/in/mamatha28-h06 
