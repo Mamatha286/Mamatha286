@@ -1,16 +1,42 @@
-## Hi there 👋
+# 💼 Mamatha H - Portfolio
 
-<!--
-**Mamatha286/Mamatha286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio 🚀
 
-Here are some ideas to get you started:
+🔗 Live Website:  
+https://mamathacoder26-alt.github.io/Portfolio_MamathaH/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+- MCA Graduate
+- Full Stack Developer
+- Skills: React, Node.js, MySQL
+
+---
+
+## 🚀 Projects
+
+### 1. Fleet Management System
+- React + Node.js + MySQL
+- Features:
+  - Booking system
+  - Client dashboard
+  - Driver tracking
+
+### 2. Portfolio Website
+- Built using React
+- Responsive design
+- Deployed on GitHub Pages
+
+---
+
+## 🛠️ Tech Stack
+- Frontend: React, HTML, CSS
+- Backend: Node.js, Express
+- Database: MySQL
+
+---
+
+## 📬 Contact Me
+- Email: yourmail@gmail.com
+- LinkedIn: https://linkedin.com/in/yourprofile
